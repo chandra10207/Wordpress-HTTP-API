@@ -1,4 +1,4 @@
-# Wordpress-HTTP-API
+# Wordpress HTTP API
 Localize Script:
 Add this on your functions.php
 ```php
